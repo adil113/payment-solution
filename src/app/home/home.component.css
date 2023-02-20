@@ -1,0 +1,206 @@
+.hero-section{
+    padding: 90px 20px 50px 20px;
+    /* top right bottom left */
+}
+p{
+    color: #999ea7;
+}
+
+.info-text span{
+    padding: 10px 20px;
+    background-color: #f9f9f9;
+    color: #6680ff;
+    font-weight: 500;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.info-text h1{
+    font-size: 52px;
+    font-weight: bold;
+    padding: 20px 0px;
+    font-family: "Inter"
+}
+.info-text p{
+    color: #999ea7;
+}
+.info-text button{
+    background-color: #FF9254;
+    padding: 12px 40px;
+    font-size: 17px;
+    font-weight: 500;
+    color: #ffff;
+    border: 1px solid #FF9254;
+}
+.info-text a{
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 20px;
+    cursor: pointer;
+    font-weight: 500;
+}
+.number span{
+    color: black;
+    font-weight: 500;
+    font-size: 44px;
+}
+.number h4{
+    color: #999ea7;
+    font-weight: 400;
+    font-size: 17px;
+    padding: 14px 0px 0px 10px;
+}
+
+/* section-two start */
+.section-two{
+
+}
+.section-two h2{
+    font-size: 40px;
+    color: #070707;
+    font-family: "inter";
+    font-weight: 600;
+    line-height: 1.2;
+}
+.section-two p{
+    color: #999ea7;
+}
+.flex .span span{
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 1.5;
+    padding-bottom: 10px;
+}
+/* section-two end */
+/* section-three start */
+.section-three{
+
+}
+.back{
+    background: #f3f4f7;
+    padding: 20px;
+    border-radius: 15px;
+}
+.section-three img{
+    border: 1px solid #FF9254;
+    margin-bottom: 30px;
+}
+.section-three .file{
+     padding: 40px 30px; 
+    text-align: center;
+}
+.file{
+    background-color: #ffff;
+}
+.file:hover{
+    background: #FF9254;
+    color: #ffff;
+    border-radius: 9px;
+}
+.file i{
+    font-size: 33px;
+    font-weight: bold;
+}
+.file h5{
+    font-weight: 600;
+}
+
+.section-three .invoice2{
+  padding: 100px 50px;
+}
+.invoice2 h2{
+font-size: 50px;
+font-weight: 600;
+line-height: 1.2;
+font-family: "inter";
+}
+.invoice2 i{
+    color: #FF9254;
+    font-size: 18px;
+    font-weight: bold;
+}
+.invoice2 a{
+    color: #070707;
+    font-weight: 500;
+    padding: 12px 40px;
+    background: #f8fafc;
+}
+/* section-three end */
+/* section-four start */
+.section-four .flex{
+    background: #f3f3f5;
+    padding: 0px 20px;
+}
+.section-four h2{
+    font-size: 45px;
+    font-weight: 700;
+    font-family: "inter";
+}
+.section-four .flex i{
+    color: #FFBF1C;
+    font-size: 20px;
+    padding: 10px 5px;
+}
+.section-four .flex p{
+    color: black;
+}
+.section-four .flex img{
+    border-radius: 100%;
+    height: 67px;
+    padding: 12px;
+    width: 67px;
+}
+/* section-four end */
+/* section-five start */
+
+
+
+.form{
+background-color: #f9f9f9;
+padding: 54px 52px;
+margin: 74px 134px;
+border-radius: 10px;
+}
+.form .accordion-item button{
+    background-color: #f9f9f9;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 30px 0px;
+    font-family: initial;
+}
+.form .accordion-item :hover{
+    color: #FF9254;
+}
+/* section-five end */
+/* section-six start*/
+
+.section-six{
+    background-color: transparent;
+    background-image: linear-gradient(232deg, #FFFFFF 54%, #FFFFFFB8 100%);
+}
+.section-six h2{
+    color: #FFFFFF;
+    padding: 15px 0px;
+}
+.section-six p{
+    color: #FFFFFF;
+}
+.section-six button{
+    background: white;
+    padding: 6px 25px;
+    border-radius: 5px;
+    border: 1px solid #FFFFFF;
+    margin: 20px 0px;
+}
+.section-six button a{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.section-six .title{
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #FF9254 0%, #FFBF1C 100%);
+    padding: 40px 30px;
+    border-radius: 10px;
+}
+
+/* section-six end */

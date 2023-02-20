@@ -1,0 +1,106 @@
+.section-one .contact{
+    padding: 30px 0px;
+}
+.section-one .contact ul{
+    list-style-type: none;
+}
+.section-one .contact ul li a{
+text-decoration: none;
+padding: 0px 15px;
+color: #999999;   
+}
+.section-one .contact ul li span{
+    padding: 0px 15px;
+    color: #46BEA3;
+}
+.section-one h2{
+    font-weight: 500;
+    font-size: 50px;
+    padding: 10px 0px;
+}
+.section-one p{
+    color: darkgray;
+}
+
+/* section-two start  */
+.section-two{
+    background: rgb(248, 245, 245);
+    padding: 80px;
+}
+.section-two form{
+    /* padding: 5px 10px; */
+}
+.section-two form button{
+    background: black;
+    border: 1px solid black;
+    color: #ffff;
+    padding: 10px 43px;
+}
+form label{
+    font-size: 12px;
+}
+.main-area{
+    background: #ffff;
+    padding: 60px;
+    border-radius: 10px;
+}
+.section-two .info{
+    background: #5754ff;
+    color: white;
+    border-radius: 12px;
+    padding: 28px 38px;
+}
+.section-two .info ul{
+    padding: 0px;
+    list-style-type: none;
+    padding: 100px 0px 0px 0px;
+}
+.section-two .info ul li{
+    padding: 6px 0px;
+}
+.section-two .info ul li a{
+    color: #ffff;
+}
+.section-two .info ul li i{
+    padding: 0px 10px 0px 0px;
+}
+/* section-two end  */
+/* section-three start  */
+.section-three{
+
+}
+
+.section-three .accordion-item h2 button{
+    font-size: 20px;
+    font-weight: 600;
+}
+/* section-three end  */
+
+/* section-four  start*/
+ .section-four{
+padding: 40px 148px;
+ }
+ .section-four .title{
+    background-color: #5754ff;
+    background-image: url(../../assets/sky.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 17px;
+    padding: 99px 188px;
+ }
+ .section-four h1{
+    color: #ffff;
+    font-weight: 600;
+ }
+ .section-four p{
+    color: #ffff;
+    padding: 10px 0px;
+ }
+ .section-four button{
+    padding: 10px 40px;
+    color: #ffff;
+    background: black;
+    border-radius: 5px;
+ }
+/* section-four end */

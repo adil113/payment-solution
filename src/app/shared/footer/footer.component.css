@@ -1,0 +1,26 @@
+/* section-seven start */
+.section-seven{
+background-color: #141414;
+padding: 80px 40px;
+}
+.section-seven img{
+    padding: 14px 0px;
+}
+.section-seven h4{
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+}
+.section-seven p{
+    color: #fff;
+}
+.section-seven ul{
+    padding: 0;
+    color: #fff;
+}
+.section-seven ul li{
+    list-style-type: none;
+    line-height: 40px;
+    color: #ffff;
+}
+/* section-seven end */
