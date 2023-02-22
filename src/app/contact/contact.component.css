@@ -1,3 +1,4 @@
+
 .section-one .contact{
     padding: 30px 0px;
 }
@@ -25,7 +26,7 @@ color: #999999;
 /* section-two start  */
 .section-two{
     background: rgb(248, 245, 245);
-    padding: 80px;
+    /* padding: 80px; */
 }
 .section-two form{
     /* padding: 5px 10px; */
@@ -41,7 +42,7 @@ form label{
 }
 .main-area{
     background: #ffff;
-    padding: 60px;
+    padding: 60px 0px;
     border-radius: 10px;
 }
 .section-two .info{
@@ -69,16 +70,24 @@ form label{
 .section-three{
 
 }
-
+.accordion{
+    border: none;
+}
+.accoritemdion{
+    border: none;
+}
+.accordion-item{
+    border: none;
+}
 .section-three .accordion-item h2 button{
-    font-size: 20px;
+    font-size: 28px;
     font-weight: 600;
 }
 /* section-three end  */
 
 /* section-four  start*/
  .section-four{
-padding: 40px 148px;
+padding: 40px 0px;
  }
  .section-four .title{
     background-color: #5754ff;
@@ -87,10 +96,11 @@ padding: 40px 148px;
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 17px;
-    padding: 99px 188px;
+    padding: 99px 0px;
  }
  .section-four h1{
     color: #ffff;
+    font-size: 50px;
     font-weight: 600;
  }
  .section-four p{

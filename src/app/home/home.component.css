@@ -85,7 +85,7 @@ p{
     margin-bottom: 30px;
 }
 .section-three .file{
-     padding: 40px 30px; 
+     padding: 40px 0px; 
     text-align: center;
 }
 .file{
@@ -105,7 +105,7 @@ p{
 }
 
 .section-three .invoice2{
-  padding: 100px 50px;
+  padding: 100px 0px;
 }
 .invoice2 h2{
 font-size: 50px;
@@ -156,8 +156,8 @@ font-family: "inter";
 
 .form{
 background-color: #f9f9f9;
-padding: 54px 52px;
-margin: 74px 134px;
+padding: 54px 0px;
+margin: 74px 0px;
 border-radius: 10px;
 }
 .form .accordion-item button{
